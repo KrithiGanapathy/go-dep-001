@@ -1,4 +1,4 @@
-module 001
+module github.com/krithiganapathy/go-dep-001
 
 go 1.17
 
